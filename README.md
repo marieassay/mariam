@@ -28,7 +28,7 @@ I'm a passionate data engineer and software techie with a keen interest in open-
 ## Projects
 
 Here are some of my favorite projects:
-- [**Project 1**(https://github.com/marieassay/Python-KMeans-modeling--customer-segmentation): This project applies K-Means clustering to segment mall customers based on their demographic and spending behaviors. The analysis explores univariate, bivariate, and multivariate clustering models to uncover patterns in customer income, spending score, and age.
+- [**Project 1**](https://github.com/marieassay/Python-KMeans-modeling--customer-segmentation): This project applies K-Means clustering to segment mall customers based on their demographic and spending behaviors. The analysis explores univariate, bivariate, and multivariate clustering models to uncover patterns in customer income, spending score, and age.
 
 - [**Project 2**](https://github.com/marieassay/PortfolioProjects): Description: This project analyzes global COVID-19 data using SQL queries. The dataset includes information on early COVID-19 cases, deaths, and vaccinations. The analysis explores various trends, such as death rates, infection rates, and vaccination impact across different locations and populations.
 
