@@ -30,7 +30,7 @@ I'm a passionate data engineer and software techie with a keen interest in open-
 Here are some of my favorite projects:
 - [**Project 1**(https://github.com/marieassay/Python-KMeans-modeling--customer-segmentation): This project applies K-Means clustering to segment mall customers based on their demographic and spending behaviors. The analysis explores univariate, bivariate, and multivariate clustering models to uncover patterns in customer income, spending score, and age.
 
-- [**Project 2**](SQL Covid Project scripts.txt): Description: This project analyzes global COVID-19 data using SQL queries. The dataset includes information on early COVID-19 cases, deaths, and vaccinations. The analysis explores various trends, such as death rates, infection rates, and vaccination impact across different locations and populations.
+- [**Project 2**](https://github.com/marieassay/PortfolioProjects): Description: This project analyzes global COVID-19 data using SQL queries. The dataset includes information on early COVID-19 cases, deaths, and vaccinations. The analysis explores various trends, such as death rates, infection rates, and vaccination impact across different locations and populations.
 
 - [**Project 3**](https://github.com/marieassay/skills-deploy-to-azure): In this project, I created two deployment workflows using GitHub Actions and Microsoft Azure. The first workflow deploys to staging based on a label, and the second workflow deploys to production based on merging to the main branch. Additionally, I implemented environment-specific configurations, ensured secure secret management using GitHub Secrets, and incorporated automated testing and rollback mechanisms to enhance deployment reliability.
 
